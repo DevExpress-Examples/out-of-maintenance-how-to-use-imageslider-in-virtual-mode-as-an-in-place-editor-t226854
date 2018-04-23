@@ -1,0 +1,8 @@
+# How to use ImageSlider in Virtual Mode as an in-place editor
+
+
+<p>This example demonstrates how to use <a href="https://documentation.devexpress.com/#WindowsForms/CustomDocument12364">ImageSlider</a> in <strong>Virtual Mode</strong> as <a href="https://documentation.devexpress.com/#WindowsForms/clsDevExpressXtraGridGridControltopic">GridControl</a>'s in-place editor using the IAnyControlEdit interface. <strong>Virtual Mode</strong> is used to upload dynamic images. The main idea is to handle the <a href="https://documentation.devexpress.com/#WindowsForms/DevExpressXtraEditorsControlsImageSlider_GetImagetopic">ImageSlider.GetImage</a> and <a href="https://documentation.devexpress.com/#WindowsForms/DevExpressXtraEditorsControlsImageSlider_CanGetNextPrevImagetopic">ImageSlider.CanGetNextPrevImage</a> events. Handling these events will allow you to pass required images to the control. In other words, you can add required images to your ImageSlider, which should be shown after pressing the Next/Prev buttons. Please refer to the <a href="https://documentation.devexpress.com/#WindowsForms/CustomDocument12365">Virtual Mode</a> help article for more information.<br />This approach can be applied to <a href="https://documentation.devexpress.com/#WindowsForms/clsDevExpressXtraTreeListTreeListtopic">TreeList</a> as well.<br /><img src="https://raw.githubusercontent.com/DevExpress-Examples/how-to-use-imageslider-in-virtual-mode-as-an-in-place-editor-t226854/14.2.3+/media/60d58d4e-dcf4-11e4-80bf-00155d62480c.png"><br /><br /><strong>See also:</strong><br /><a href="https://documentation.devexpress.com/#WindowsForms/clsDevExpressXtraEditorsCustomEditorRepositoryItemAnyControltopic">RepositoryItemAnyControl Class</a></p>
+
+<br/>
+
+
