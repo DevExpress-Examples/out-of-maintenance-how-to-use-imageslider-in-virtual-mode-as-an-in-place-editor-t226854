@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/WindowsFormsApplication202/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication202/Form1.vb))**
+* [ImageSliderHelper.cs](./CS/WindowsFormsApplication202/ImageSliderHelper.cs) (VB: [ImageSliderHelper.vb](./VB/WindowsFormsApplication202/ImageSliderHelper.vb))
+* [MyImageSlider.cs](./CS/WindowsFormsApplication202/MyImageSlider.cs) (VB: [MyImageSlider.vb](./VB/WindowsFormsApplication202/MyImageSlider.vb))
+<!-- default file list end -->
 # How to use ImageSlider in Virtual Mode as an in-place editor
 
 
